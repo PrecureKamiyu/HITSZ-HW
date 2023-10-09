@@ -1,5 +1,4 @@
-# HITSZ-2023-Database-Experiment
-HITSZ 2023 Database Experiment
+# HITSZ 2023 Database Experiment
 
 ## lab 1 sql
 
@@ -15,3 +14,6 @@ where co.country = 'Germany'
 and you need to change the report respectively.
 
 It is a simple mistake.
+
+## lab 2
+lab2 has not much code. It is rather bullshit. so just read the report.
