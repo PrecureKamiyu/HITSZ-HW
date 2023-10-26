@@ -14,10 +14,3 @@ where co.country = 'Germany'
 and you need to change the report respectively.
 
 It is a simple mistake.
-
-## lab 2
-lab2 has not much code. It is rather bullshit. so just read the report.
-
-# Cryptography Experiment
-## lab 1 aes
-there is instructions and answer code in the zip file.
